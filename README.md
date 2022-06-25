@@ -4,6 +4,8 @@ I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time codi
 
 
 Software Engineer - Acheivements - Skills - Uses - How - Aspirations
+
+
 I am Software Engineer with a relative experience in mobile development, DevOps, Backend and API technologies such as Flutter, React, Docker, Typescript and GraphQL - I have developed muti-platform application using the above technologies to enable ----- with ---- I aspire to become a DevOps and cloud infrastructure engineer.
 
 :mailbox: Reach me out!
@@ -29,7 +31,7 @@ I am Software Engineer with a relative experience in mobile development, DevOps,
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/react-react-green)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
+[![React Badge](https://img.shields.io/badge/react-react-green)](#) [![Express Badge](https://https://img.shields.io/badge/Express-Express-yellowgreen)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
 
 
 #### Github Stats
