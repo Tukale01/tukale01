@@ -2,9 +2,13 @@
 
 I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time coding outstanding projects.
 
+
+Software Engineer - Acheivements - Skills - Uses - How - Aspirations
+I am Software Engineer with a relative experience in mobile development, DevOps, Backend and API technologies such as Flutter, React, Docker, Typescript and GraphQL - I have developed muti-platform application using the above technologies to enable ----- with ---- I aspire to become a DevOps and cloud infrastructure engineer.
+
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Iamshabel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/iamshabel) [![Linkedin Badge](https://img.shields.io/badge/-Mubarak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-shabel-a13691223/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mubarakshabel0@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Iamshabel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/RidwanTukale) [![Linkedin Badge](https://img.shields.io/badge/-Mubarak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-shabel-a13691223/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mubarakshabel0@gmail.com)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
