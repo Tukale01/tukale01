@@ -14,13 +14,20 @@ I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time codi
 - 🤔 I’m looking for help with Frontend sides.
 - 📫 How to reach me: mubarakshabel0@gmail.com.
 
+##### Some of my achievements
+
+- I have been through the world 🌍
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Frontend sides.
+- 📫 How to reach me: mubarakshabel0@gmail.com.
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
+[![React Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
 
 
 #### Github Stats
 
-![Mubarak's github stats](https://github-readme-stats.vercel.app/api?username=iamshabell&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Tukale's github stats](https://github-readme-stats.vercel.app/api?username=Tukale01&count_private=true&theme=tokyonight&hide=contribs,prs)
